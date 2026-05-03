@@ -1,0 +1,6 @@
+Signal,Weight,Mean,Std
+S1-Rating,0.3,0.6315,0.4359
+S2-Sentiment,0.25,0.518,0.2291
+S3-Keywords,0.25,0.0229,0.0981
+S4-Community,0.1,0.0195,0.1078
+S5-Temporal,0.1,0.3798,0.3512
