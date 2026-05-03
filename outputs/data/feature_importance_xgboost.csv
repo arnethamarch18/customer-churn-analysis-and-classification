@@ -1,0 +1,1004 @@
+Feature,Importance
+sentiment_polarity,0.11685198
+appVersion_enc,0.021833198
+mending,0.014835122
+ganti,0.012829296
+pindah,0.010937781
+thumbsUp_scaled,0.010392935
+buruk,0.010204912
+hapus,0.010024693
+ya,0.009725076
+tingkat,0.009576281
+sampah,0.009402069
+indihome,0.009025957
+my telkomsel,0.008650313
+game,0.008581878
+indosat,0.007903097
+muas,0.00757138
+min,0.00738465
+murah,0.007179627
+promo,0.0068080905
+down,0.0067087337
+lumayan,0.006282889
+kadang,0.006134074
+henti,0.006099923
+telkomsel,0.0058390466
+terlalu mahal,0.0058364943
+terima kasih,0.0058331126
+aplikasi,0.005751364
+uninstall,0.0055432147
+minimal,0.0054880898
+jelek,0.0054728664
+bug,0.0051402617
+gajelas,0.005119683
+mahal jaring,0.005112053
+tolol,0.005032428
+xl,0.0050215367
+gabisa buka,0.004963823
+mohon,0.004862973
+buka,0.004787883
+paket,0.0047471314
+bgus,0.0047413604
+hadiah,0.0042543393
+terlalu,0.004153391
+doang,0.004099974
+busuk,0.0040950016
+terimakasih,0.004083924
+kak,0.0039846688
+lihat,0.003951259
+nya,0.003915856
+knp,0.0038602178
+ga,0.0037886142
+sayang,0.0037286973
+parah,0.0037286119
+terkadang,0.0037002857
+jangkau,0.0036867748
+dong,0.0036603296
+elit,0.0036329485
+kuat,0.0036156038
+moga,0.003585947
+sedikit,0.0035853696
+banyak bug,0.0035704048
+jaring,0.003541615
+rusak,0.003540619
+mahal doang,0.0034615975
+burik,0.0034291751
+good,0.0034086287
+makasih,0.0033740366
+aplikasi apa,0.0033323213
+mytelkomsel,0.0032966223
+aja,0.0032761472
+buka aplikasi,0.0032384717
+apk,0.0031964227
+vas,0.0031196175
+malah,0.0031069159
+yaa,0.0031043105
+bantu,0.0031000013
+normal,0.0030759363
+mahal paket,0.0030633023
+gratis,0.0030348594
+telah,0.0029905536
+gak,0.0029864067
+promonya,0.0029448706
+sinyal,0.002936582
+ngebug,0.002927987
+stamp,0.0029184453
+maaf,0.002906359
+lebih,0.0028964733
+cacat,0.0028807055
+kalian,0.00284937
+nyesel,0.0028317564
+sangat,0.002829592
+pulsa,0.0028116
+ampas,0.0028020917
+pencet,0.0027974062
+mulu,0.002794572
+ko,0.0027432817
+kayak,0.002727259
+untuk,0.0027116283
+skrg,0.0027036117
+jelas,0.0027010231
+bonus,0.0026655064
+mantap,0.0026585534
+soal,0.002602522
+mau,0.002590663
+desa,0.0025772685
+babi,0.002572944
+kau,0.002544592
+kasih,0.0025404417
+tipu,0.0024923375
+susah,0.0024117043
+mantab,0.0024076754
+update,0.0023674152
+malah ga,0.0023653484
+sukses,0.0023631412
+cek,0.0023207606
+jd,0.0023002555
+biasa,0.0022500262
+yah,0.0022388184
+setia,0.0022323339
+kuota,0.002228199
+mahal,0.002220144
+baru,0.0022163133
+akhir,0.0021976042
+kocak,0.002197183
+kenapa,0.0021933059
+sekarang,0.002171808
+provider,0.0021695471
+lelet,0.002146874
+lot,0.0021392584
+lagi,0.002133015
+saya,0.0021240986
+banyak promo,0.002082238
+di baik,0.0020648183
+selalu,0.0020423532
+knpa,0.0020293198
+paling,0.001997827
+beli,0.0019931225
+poin,0.0019591409
+bagus,0.001954022
+biar,0.0019022137
+instal,0.0018778853
+bingung,0.0018699222
+login,0.0018622653
+lalu,0.0018436974
+depan,0.0018205855
+lewat,0.00181921
+sinyal telkomsel,0.0018130929
+main,0.0018115046
+kalo mau,0.0018077382
+baru beli,0.0018040698
+aplikasi telkomsel,0.00175097
+sering,0.0017466189
+jangan,0.0016929971
+download,0.0016811874
+klik,0.0016702777
+terima,0.0016627791
+tempat,0.0016622876
+cuman,0.001660861
+main game,0.001656926
+bisa buka,0.001654093
+eror,0.0016537063
+padahal,0.0016528927
+no,0.0016475341
+taik,0.0016422895
+aj,0.0016199639
+paket nya,0.0016182488
+di,0.0016116423
+makin lot,0.001608534
+perhati,0.0015916525
+loading,0.0015877633
+daerah,0.0015757014
+pdhal,0.00156943
+keluh,0.0015670927
+sisa,0.0015635118
+makin bagus,0.001556009
+sesuai,0.001554974
+apa,0.001530634
+bilang,0.0015245916
+app,0.0015163596
+akses,0.0015136445
+banyak,0.0015129347
+mahal sinyal,0.0015109804
+jadi,0.0015047634
+baik,0.0014878403
+lu,0.0014872445
+dan,0.0014863337
+sumpah,0.0014802769
+fungsi,0.001477965
+cs,0.001465316
+manfaat,0.0014432701
+terus,0.0014272082
+bayar,0.0014248737
+milik,0.0014177397
+satu,0.0014112007
+masuk,0.0014086926
+ga di,0.0013976848
+langsung,0.0013932058
+my indihome,0.0013913338
+kuota internet,0.0013824556
+crash,0.0013792869
+coba,0.0013762896
+memang,0.0013652209
+tolong,0.001358498
+detail,0.0013548534
+versi,0.0013543121
+kok,0.0013504873
+luar,0.0013460612
+udah,0.001341429
+buka apk,0.0013228243
+pas mau,0.001320475
+laku,0.0013172072
+gak di,0.001312504
+jaring telkomsel,0.0013095103
+close,0.0012914683
+aktif,0.001287629
+lancar,0.0012720611
+percuma,0.0012625902
+my,0.0012569119
+layan,0.001248851
+di update,0.0012234865
+data,0.0012207091
+mau masuk,0.0012081737
+indonesia,0.001199993
+dulu,0.00119253
+cara,0.0011898369
+tuh,0.0011817573
+sudah,0.001177241
+fitur,0.0011624945
+kalau,0.0011597802
+tidak,0.0011568184
+gb,0.0011431358
+tiba tiba,0.0011398246
+gabisa,0.0011325114
+yg,0.0011298201
+tambah,0.0011184277
+tapi,0.0011127725
+tagih,0.001109274
+mahal kualitas,0.0011049567
+aku,0.001104864
+kan,0.001091981
+minggu,0.0010764158
+sendiri,0.001072786
+payah,0.0010704697
+hilang,0.001063051
+hujan,0.0010623237
+sih,0.0010605982
+update jadi,0.001044792
+benar,0.001042489
+isi pulsa,0.0010419948
+saat,0.0010403567
+ulang,0.0010373159
+video,0.0010342844
+krn,0.0010302466
+mati,0.0010289577
+telkomsel sekarang,0.0010262378
+waktu,0.0010196446
+kartu,0.0010175321
+sdh,0.0010154909
+nomer,0.0010080602
+nomor,0.0010041269
+mudah,0.0010001806
+harus,0.0009985487
+tahun,0.0009980612
+sakti,0.0009971381
+lebih bagus,0.0009936559
+minta,0.0009919194
+orang,0.0009892496
+lain,0.0009887246
+berat,0.0009766797
+beberapa,0.0009693977
+hasil,0.0009668112
+tiba,0.00095833244
+awal,0.0009573626
+gk,0.0009485524
+kaya,0.000945426
+ada,0.000937723
+saran,0.00093089003
+yang,0.0009267863
+tampil,0.0009231417
+sedot,0.0009202318
+dah,0.0009133919
+rugi,0.00091177033
+utama,0.0009116848
+klaim,0.0009102786
+kartu telkomsel,0.000909787
+masa aktif,0.0009066022
+sms,0.0009049721
+cuma,0.00090496056
+besar,0.00089962356
+hp,0.00089800917
+sangat jelek,0.000897973
+pernah,0.0008956657
+jgn,0.000893868
+ku,0.0008848178
+tulis,0.0008831759
+bulan,0.0008785632
+bisa,0.00087657385
+emang,0.00087547774
+gua,0.00087160605
+kecewa,0.0008714747
+tau,0.0008607865
+kurang,0.0008599288
+makin update,0.00085661333
+sinyal jelek,0.0008556902
+harga,0.00085103407
+mau login,0.0008488729
+kemarin,0.0008482832
+hari,0.00084385095
+gimana,0.0008419122
+kali,0.00084071694
+ni,0.00084061467
+makin,0.00083903136
+makin kesini,0.00083807384
+potong,0.0008350084
+sulit,0.00083445275
+kata,0.00083395763
+kena,0.0008324836
+ny,0.00083093176
+mau beli,0.0008209223
+guna telkomsel,0.00082089385
+langgan,0.000820649
+seperti,0.00081888953
+akun,0.00081095344
+claim,0.0008104734
+bukan,0.0008102482
+paket data,0.000798655
+mb,0.0007979225
+sekarang malah,0.00079452444
+gara,0.00079383445
+respon,0.00079348136
+bener,0.00078907487
+punya,0.00078822917
+ribu,0.0007807274
+luas,0.00078008603
+habis,0.00077262387
+aplikasi bisa,0.000761774
+aneh,0.00075925124
+suka,0.0007544119
+jelek banget,0.0007494464
+paket darurat,0.0007483459
+lg,0.0007482964
+up,0.0007460345
+banget,0.00074569526
+beli kuota,0.00074191834
+rasa,0.00074135495
+buat,0.0007409144
+udh,0.00073833397
+force,0.00073648314
+telkomsel jaring,0.000735794
+makin mahal,0.00073421857
+butuh,0.0007339305
+kualitas,0.00073065894
+tiap,0.0007301549
+sampe,0.0007297864
+muncul,0.00072707306
+telkomsel makin,0.00072257564
+isi,0.000719918
+hari makin,0.000719864
+kouta,0.0007153755
+gak buka,0.00071521336
+jg,0.0007112536
+di buka,0.00071108533
+bgt,0.0007101671
+bikin,0.00070814835
+kota,0.00070046476
+tdk,0.0007002356
+bangkrut,0.0007000036
+nyata,0.00069645693
+suruh,0.0006949732
+in,0.000693437
+lambat,0.00069306005
+sekali,0.000689336
+aja ga,0.0006879521
+penting,0.00068683614
+kalo,0.00068632566
+tetap,0.00068067026
+jadi susah,0.0006773126
+guna,0.0006756827
+developer,0.00067196577
+klo,0.00067154795
+pulsa nya,0.0006645955
+keluar,0.0006620517
+enak,0.00065820554
+gitu,0.0006575512
+error,0.0006554136
+ribet,0.00064929033
+jaring nya,0.00063934026
+gagal,0.00063350383
+tunggu,0.00062673807
+pilih,0.0006239007
+beli paket,0.00061887765
+ga buka,0.0006179755
+sama,0.000609279
+tp,0.0006046246
+internet,0.0006039843
+dr,0.00059913425
+pakai,0.0005945134
+cukup,0.00059215707
+bintang,0.0005828266
+semua,0.00058110344
+belum,0.0005771404
+harga paket,0.0005726366
+youtube,0.0005721739
+pake,0.0005707545
+ilang,0.00056990405
+telkom,0.0005606444
+rb,0.00055426924
+sy,0.0005522705
+pas,0.00054273236
+ubah,0.00054172636
+pake telkomsel,0.0005372841
+lama,0.00052322843
+paket yg,0.0005121344
+lah,0.0005108336
+kasih bintang,0.00051057973
+salah,0.0005083798
+masalah,0.0005037034
+kembali,0.000500133
+gin,0.0004982899
+lag,0.0004945666
+masa,0.00049209374
+paket kuota,0.00048162573
+tpi,0.00048001614
+cepat,0.00047456738
+aplikasi nya,0.00047337075
+belah,0.00045851857
+banding,0.0004538488
+aktif kartu,0.00045368288
+itu,0.00044949606
+nih,0.00043948938
+masih,0.0004357713
+terlalu berat,0.00043376736
+sangat sangat,0.00043028753
+kesini,0.00042980857
+paket mahal,0.00042453333
+alih,0.00041846436
+doang mahal,0.00041147525
+sama sekali,0.00039790687
+menu,0.00037429234
+tetep,0.00036969048
+email,0.00036794078
+dipake,0.00035920466
+tinggal,0.00035503713
+usah,0.00032096304
+kek,0.00031958005
+apk nya,0.00029316035
+update malah,0.00027721762
+aplikasi makin,0.0002493133
+makin buruk,0.0002272125
+aplikasi sangat,0.0002114757
+pdhl,0.00018711308
+ganti kartu,0.00017847458
+akhir akhir,0.00016628268
+di pake,0.00011773043
+gabung,9.750238e-05
+sangat bagus,5.294512e-05
+install,4.3367552e-05
+paket internet,3.5402216e-05
+apa sih,3.1683023e-05
+sangat muas,1.1234125e-06
+tutup,0.0
+turun,0.0
+paket gb,0.0
+uang,0.0
+sebut,0.0
+paket makin,0.0
+pas buka,0.0
+tiap mau,0.0
+tiba hilang,0.0
+pemberitahuan,0.0
+pelit,0.0
+top,0.0
+top up,0.0
+tower,0.0
+transaksi,0.0
+parah banget,0.0
+paket murah,0.0
+trs,0.0
+panjang,0.0
+trus,0.0
+paksa,0.0
+tsel,0.0
+paket aja,0.0
+tu,0.0
+tukar,0.0
+uda,0.0
+pakai telkomsel,0.0
+udah beli,0.0
+nya makin,0.0
+otomatis,0.0
+via,0.0
+operator,0.0
+online,0.0
+oke,0.0
+nyusahin,0.0
+wa,0.0
+walaupun,0.0
+nyaman,0.0
+nya sangat,0.0
+nya malah,0.0
+nya mahal,0.0
+udah mahal,0.0
+nya lot,0.0
+nya jelek,0.0
+nya gak,0.0
+nya ga,0.0
+nya bagus,0.0
+wifi,0.0
+wilayah,0.0
+nunggu,0.0
+notifikasi,0.0
+woi,0.0
+woy,0.0
+versi belum,0.0
+out,0.0
+versi baru,0.0
+verifikasi,0.0
+ui,0.0
+uninstal,0.0
+untung,0.0
+update aplikasi,0.0
+pakek,0.0
+pake kartu,0.0
+penuh,0.0
+update baru,0.0
+update bukan,0.0
+update kok,0.0
+update makin,0.0
+pagi,0.0
+update terus,0.0
+upgrade,0.0
+padahal udah,0.0
+padahal sinyal,0.0
+padahal pulsa,0.0
+padahal kuota,0.0
+padahal jaring,0.0
+usaha,0.0
+user,0.0
+utk,0.0
+pada,0.0
+tiap hari,0.0
+telpon,0.0
+tiap buka,0.0
+saja,0.0
+simpati,0.0
+simpel,0.0
+sampai,0.0
+simple,0.0
+sama telkomsel,0.0
+sama aja,0.0
+sini,0.0
+saldo,0.0
+sini makin,0.0
+sinyal bagus,0.0
+sinyal buruk,0.0
+sinyal lot,0.0
+signal,0.0
+sinyal makin,0.0
+sinyal nya,0.0
+sinyal sulit,0.0
+rumah,0.0
+yg lama,0.0
+sisa kuota,0.0
+rp,0.0
+ringan,0.0
+sistem,0.0
+skrng,0.0
+solusi,0.0
+sim,0.0
+sibuk,0.0
+stabil,0.0
+sering ganggu,0.0
+sedia,0.0
+segala,0.0
+segera,0.0
+segera baik,0.0
+sejak,0.0
+selesai,0.0
+semenjak,0.0
+semenjak update,0.0
+senang,0.0
+sering eror,0.0
+sering error,0.0
+sering hilang,0.0
+sia,0.0
+sering keluar,0.0
+sangat puas,0.0
+seru,0.0
+server,0.0
+sangat mudah,0.0
+sangat kecewa,0.0
+service,0.0
+sangat buruk,0.0
+sangat bantu,0.0
+sangat baik,0.0
+si,0.0
+reward,0.0
+stamp hadiah,0.0
+the best,0.0
+telkomsel yg,0.0
+potong pulsa,0.0
+pokok,0.0
+telkomsel baik,0.0
+telkomsel gak,0.0
+telkomsel nya,0.0
+telkomsel sangat,0.0
+telkomsel selalu,0.0
+pke,0.0
+telkomsel sinyal,0.0
+pilih paket,0.0
+telkomsel udah,0.0
+sedang,0.0
+program,0.0
+tengah,0.0
+terang,0.0
+terlalu banyak,0.0
+pihak telkomsel,0.0
+pihak,0.0
+pesan,0.0
+tetep aja,0.0
+pertama,0.0
+tgl,0.0
+the,0.0
+perlu,0.0
+produk,0.0
+telah update,0.0
+starlink,0.0
+pusing,0.0
+super,0.0
+rekomendasi,0.0
+yg dulu,0.0
+susah banget,0.0
+yg baru,0.0
+susah buka,0.0
+ram,0.0
+quota,0.0
+sya,0.0
+tadi,0.0
+putus,0.0
+tahu,0.0
+proses,0.0
+pulsa sedot,0.0
+pulsa potong,0.0
+tak,0.0
+tanggal,0.0
+pulsa paket,0.0
+tanggap,0.0
+tanya,0.0
+pulsa cukup,0.0
+tarik,0.0
+puas,0.0
+tawar,0.0
+notif,0.0
+abis,0.0
+nonton,0.0
+dpt,0.0
+dari,0.0
+darurat,0.0
+dasar,0.0
+deh,0.0
+dgn,0.0
+dikit,0.0
+diupdate,0.0
+dlu,0.0
+dri,0.0
+dapat,0.0
+duit,0.0
+eh,0.0
+emosi,0.0
+entah,0.0
+fb,0.0
+fitur jaga,0.0
+force close,0.0
+full,0.0
+dapet,0.0
+dana,0.0
+ga login,0.0
+buruk sekali,0.0
+buat aplikasi,0.0
+buat beli,0.0
+buat main,0.0
+bug nya,0.0
+buka my,0.0
+buka sama,0.0
+bukan makin,0.0
+bumn,0.0
+cari,0.0
+dalam,0.0
+cek kuota,0.0
+cek pulsa,0.0
+cepet,0.0
+chat,0.0
+cocok,0.0
+combo,0.0
+customer,0.0
+daftar,0.0
+ga jelas,0.0
+ga masuk,0.0
+buang,0.0
+harga nya,0.0
+halaman,0.0
+halo,0.0
+hampir,0.0
+hancur,0.0
+hangus,0.0
+harap,0.0
+harga kuota,0.0
+harga mahal,0.0
+hati,0.0
+habis update,0.0
+heran,0.0
+hubung,0.0
+iklan,0.0
+ikut,0.0
+info,0.0
+informasi,0.0
+ingin,0.0
+ini,0.0
+hadeh,0.0
+gw,0.0
+gada,0.0
+gede,0.0
+gagal terus,0.0
+gak jelas,0.0
+gak login,0.0
+gak masuk,0.0
+gak pernah,0.0
+gampang,0.0
+ganggu,0.0
+gb hari,0.0
+gila,0.0
+gue,0.0
+gilir,0.0
+gimana sih,0.0
+gk buka,0.0
+gk di,0.0
+gk jelas,0.0
+gk masuk,0.0
+gmn,0.0
+gmna,0.0
+buat apa,0.0
+bsa,0.0
+nih aplikasi,0.0
+aplikasi sering,0.0
+aplikasi gak,0.0
+aplikasi jadi,0.0
+aplikasi jelek,0.0
+aplikasi lot,0.0
+aplikasi malah,0.0
+aplikasi my,0.0
+aplikasi mytelkomsel,0.0
+aplikasi sampah,0.0
+aplikasi terlalu,0.0
+aplikasi berat,0.0
+aplikasi yg,0.0
+app nya,0.0
+apps,0.0
+asa,0.0
+asli,0.0
+asu,0.0
+atas,0.0
+baca,0.0
+aplikasi ga,0.0
+aplikasi bagus,0.0
+bagaimana,0.0
+ama,0.0
+ad,0.0
+admin,0.0
+aja gak,0.0
+aja susah,0.0
+ajg,0.0
+akan,0.0
+alami,0.0
+alas,0.0
+aman,0.0
+apl,0.0
+ambil,0.0
+ampun,0.0
+an,0.0
+ancur,0.0
+anj,0.0
+apa apa,0.0
+apk my,0.0
+apknya,0.0
+bagai,0.0
+bagi,0.0
+bs buka,0.0
+bisa masuk,0.0
+best,0.0
+bet,0.0
+betul,0.0
+bikin aplikasi,0.0
+bikin emosi,0.0
+bikin ribet,0.0
+bisa guna,0.0
+bisa login,0.0
+blm,0.0
+berat banget,0.0
+bnget,0.0
+bngt,0.0
+bnyak,0.0
+bobrok,0.0
+bodoh,0.0
+boros,0.0
+bos,0.0
+bs,0.0
+beri,0.0
+berapa,0.0
+bagus banget,0.0
+balik,0.0
+bagus malah,0.0
+bagus sekali,0.0
+baguss,0.0
+baharu,0.0
+bahkan,0.0
+baik aplikasi,0.0
+baik jaring,0.0
+bakal,0.0
+balikin,0.0
+beranda,0.0
+banyak fitur,0.0
+baru malah,0.0
+bawah,0.0
+beda,0.0
+begini,0.0
+beli kouta,0.0
+beli pulsa,0.0
+benerin,0.0
+internet nya,0.0
+internetnya,0.0
+isi kuota,0.0
+malah gk,0.0
+makin lama,0.0
+makin lelet,0.0
+makin parah,0.0
+makin ribet,0.0
+makin sini,0.0
+makin susah,0.0
+malah bikin,0.0
+malah gak,0.0
+malah jadi,0.0
+makin hari,0.0
+malah makin,0.0
+malah tambah,0.0
+malam,0.0
+males,0.0
+malu,0.0
+mana,0.0
+mas,0.0
+masak,0.0
+makin jelek,0.0
+makin gak,0.0
+masuk masuk,0.0
+macam,0.0
+log out,0.0
+login aja,0.0
+login ulang,0.0
+logout,0.0
+loh,0.0
+lot banget,0.0
+lot parah,0.0
+luar biasa,0.0
+maen,0.0
+makin ga,0.0
+mah,0.0
+mahal mahal,0.0
+maju,0.0
+makan,0.0
+make,0.0
+makin aneh,0.0
+makin banyak,0.0
+makin berat,0.0
+masuk aplikasi,0.0
+masukin,0.0
+isi paket,0.0
+ngelek,0.0
+nelpon,0.0
+ngak,0.0
+ngasih,0.0
+nge,0.0
+nge bug,0.0
+ngecek,0.0
+ngelag,0.0
+ngeleg,0.0
+ngga,0.0
+nama,0.0
+nggk,0.0
+ngisi,0.0
+ngk,0.0
+ngotak,0.0
+ni apk,0.0
+ni aplikasi,0.0
+niat,0.0
+nice,0.0
+nambah,0.0
+naik,0.0
+mau bayar,0.0
+metode bayar,0.0
+mau buka,0.0
+mau cek,0.0
+mau isi,0.0
+menit,0.0
+mental,0.0
+merah,0.0
+merespon,0.0
+metode,0.0
+minta ampun,0.0
+myindihome,0.0
+ml,0.0
+mohon baik,0.0
+mu,0.0
+muat,0.0
+mudah guna,0.0
+mulai,0.0
+mungkin,0.0
+muter,0.0
+abis update,0.0
+log,0.0
+loading lama,0.0
+kali kali,0.0
+jual,0.0
+juga,0.0
+kacau,0.0
+kaga,0.0
+kagak,0.0
+kalah,0.0
+kalah sama,0.0
+kalau mau,0.0
+kapan,0.0
+jaya,0.0
+karena,0.0
+karna,0.0
+kasi,0.0
+ke,0.0
+kelas,0.0
+kelas telkomsel,0.0
+keluar sendiri,0.0
+kembang,0.0
+jdi,0.0
+jawab,0.0
+lo,0.0
+jaring buruk,0.0
+it,0.0
+iya,0.0
+jadi salah,0.0
+jaga,0.0
+jaga pulsa,0.0
+jalan,0.0
+jam,0.0
+jaring bagus,0.0
+jaring internet,0.0
+jauh,0.0
+jaring jelek,0.0
+jaring lelet,0.0
+jaring lot,0.0
+jaring makin,0.0
+jaring sangat,0.0
+jaring sering,0.0
+jaring sulit,0.0
+jaringanya,0.0
+kendala,0.0
+kepake,0.0
+keren,0.0
+lanjut,0.0
+kuota nya,0.0
+kuota utama,0.0
+kuota yg,0.0
+kurang bagus,0.0
+kyk,0.0
+lama banget,0.0
+lama lama,0.0
+lama makin,0.0
+lapor,0.0
+kerja,0.0
+lebih baik,0.0
+lebih mudah,0.0
+lebih murah,0.0
+leg,0.0
+lengkap,0.0
+lgi,0.0
+liat,0.0
+link,0.0
+kuota mahal,0.0
+kuota gb,0.0
+kuota banyak,0.0
+kuota aplikasi,0.0
+kesel,0.0
+kesini makin,0.0
+khusus,0.0
+kira,0.0
+kirim,0.0
+kode,0.0
+kok gak,0.0
+kok makin,0.0
+kok malah,0.0
+komplain,0.0
+koneksi,0.0
+konsumen,0.0
+korupsi,0.0
+ktp,0.0
+kualitas jaring,0.0
+kualitas sinyal,0.0
+kuota aja,0.0
+log in,0.0
